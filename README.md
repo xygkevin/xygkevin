@@ -1,8 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xygkevin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xygkevin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xygkevin&layout=compact" /> 
+</p>
 
 ### 你好，世界 👋
-
-- :orange_book: 专注于 Swift & iOS
 
 <!--
 **xygkevin/xygkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

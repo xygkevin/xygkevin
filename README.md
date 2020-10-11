@@ -5,7 +5,7 @@
 
 <p float="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=xygkevin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xygkevin&hide=ruby,CSS,javascript"/> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xygkevin"/> 
 </p>
 
 <!--

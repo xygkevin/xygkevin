@@ -13,6 +13,8 @@
 - 🍀 I’m currently learning `Android`
 - 🍀 I’m currently learning `Python`
 - 🍀 I’m currently learning `Java`
+- 🍀 I’m currently learning `Kotlin`
+- 🍀 I’m currently learning `Dart`
 
 <br>
 
